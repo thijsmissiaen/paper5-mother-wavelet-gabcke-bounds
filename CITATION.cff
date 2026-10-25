@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this research, mathematical framework, or verification code, please cite it as below."
+authors:
+  - family-names: "Missiaen"
+    given-names: "Thijs"
+    affiliation: "Independent Researcher, Belgium"
+    email: "thijs.missiaen@gmail.com"
+    orcid: "https://orcid.org/0009-0007-3678-0810"
+title: "Universal Mother-Wavelet Decomposition of the Jacobi-Riemann Kernel, Smooth Jacobi-Sinh Shells, and Explicit Saddle-Point Remainder Bounds for Riemann's Xi-Function"
+version: 1.0.0
+date-released: 2026-04-20
+url: "https://github.com/thijsmissiaen/paper5-mother-wavelet-gabcke-bounds"
+repository-code: "https://github.com/thijsmissiaen/paper5-mother-wavelet-gabcke-bounds"
+license: "MIT"
+keywords:
+  - "Riemann Xi-function"
+  - "Transverse Wronskian"
+  - "Jacobi theta kernel"
+  - "Mother-wavelet dilation"
+  - "Riemann-Siegel formula"
+  - "Gabcke remainder bounds"
+  - "Stieltjes constants"
+  - "Wigner phase-space shift"
+  - "MSC 11M06"
+  - "MSC 41A60"
+  - "MSC 30D15"

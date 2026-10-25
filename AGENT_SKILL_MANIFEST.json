@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "name": "mother-wavelet-gabcke-bounds",
+  "title": "Universal Mother-Wavelet Decomposition of the Jacobi-Riemann Kernel, Smooth Jacobi-Sinh Shells, and Explicit Saddle-Point Remainder Bounds for Riemann's Xi-Function",
+  "version": "1.0.0",
+  "author": {
+    "name": "Thijs Missiaen",
+    "affiliation": "Independent Researcher, Belgium",
+    "email": "thijs.missiaen@gmail.com",
+    "orcid": "0009-0007-3678-0810"
+  },
+  "repository": "https://github.com/thijsmissiaen/paper5-mother-wavelet-gabcke-bounds",
+  "license": "MIT",
+  "msc_2020": ["11M06", "41A60", "30D15", "33B15"],
+  "entrypoints": {
+    "skill": ".agents/skills/mother-wavelet-gabcke-bounds/SKILL.md",
+    "manuscript_tex": "paper/paper5_mother_wavelet_gabcke_bounds.tex",
+    "manuscript_pdf": "paper/paper5_mother_wavelet_gabcke_bounds.pdf",
+    "verification_script": "scripts/verify_paper5_mother_wavelet_gabcke_bounds.py",
+    "figures": [
+      "figures/fig1_mother_wavelet_abc_matrix.png",
+      "figures/fig2_stieltjes_diagonal_and_gabcke_bounds.png"
+    ]
+  },
+  "core_theorems": [
+    "Theorem 1.1: Universal Mother-Wavelet Decomposition, Smooth Jacobi-Sinh Shell Positivity, and Explicit Saddle-Point Remainder Bounds",
+    "Theorem 2.2: Exact Polynomial Cancellation, 3-Line Reflection-Ellipse Positivity of W_{1,1}(d,t), and the Symmetric Branch-Damping Inequality",
+    "Theorem 3.1: Two-Dimensional Wigner Phase-Space Shift, Dirichlet-Sinh Lever, and Smooth Jacobi-Sinh Elimination of the u = 0 Shell Kink",
+    "Theorem 4.1: Exact Phase Elimination and Cubic-Logarithmic Stieltjes Expansion of the Diagonal Sum D_diag(d,t) = (1/6)L^3 + gamma_E L^2 - 4*gamma_1^{St}L + 4*gamma_2^{St} + O(t^{-3/2} ln^2 t)",
+    "Theorem 4.2: Quadratic Self-Damping of the Slowest Adjacent Boundary Mode (N-1,N) and Fejer Band-Limited Annihilation",
+    "Theorem 5.1: Closed-Form Incomplete-Gamma Tail Bound B_tail(N,d,t,eta) and Uniform Gaussian Barrier",
+    "Theorem 5.2: Two-Dimensional Gabcke-Olver Saddle-Point Remainder Envelope and u = 0 Mirror-Wall Damping"
+  ],
+  "verification_command": "python scripts/verify_paper5_mother_wavelet_gabcke_bounds.py"
+}

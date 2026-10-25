@@ -1,0 +1,29 @@
+{
+  "title": "Universal Mother-Wavelet Decomposition of the Jacobi-Riemann Kernel, Smooth Jacobi-Sinh Shells, and Explicit Saddle-Point Remainder Bounds for Riemann's Xi-Function",
+  "description": "Paper V of the series on the Transverse Wronskian of Riemann's Xi-Function. Establishes the universal mother-wavelet log-shift dilation of the Jacobi-Riemann kernel, exact polynomial cancellation |(1-s)(-s)| = |s(s-1)| in the bilateral Laplace-Mellin transform, the 3-line reflection-ellipse proof of W_{1,1}(d,t) > 0, the Symmetric Branch-Damping Inequality across all active Riemann-Siegel modes, the 2D Wigner phase-space shift and smooth Jacobi-Sinh shell elimination of the u = 0 odd-derivative kink, the non-oscillatory cubic-logarithmic Stieltjes diagonal expansion with O(t^{-3/2}) boundary mode self-damping, and explicit incomplete-Gamma and two-dimensional Gabcke-Olver saddle-point remainder envelopes.",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "creators": [
+    {
+      "name": "Missiaen, Thijs",
+      "affiliation": "Independent Researcher, Belgium",
+      "orcid": "0009-0007-3678-0810"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "Riemann Xi-function",
+    "Transverse Wronskian",
+    "Jacobi theta kernel",
+    "Mother-wavelet dilation",
+    "Riemann-Siegel formula",
+    "Gabcke remainder bounds",
+    "Stieltjes constants",
+    "Wigner phase-space shift",
+    "MSC 11M06",
+    "MSC 41A60",
+    "MSC 30D15"
+  ],
+  "version": "1.0.0"
+}
