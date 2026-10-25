@@ -1,9 +1,13 @@
 # Universal Mother-Wavelet Decomposition of the Jacobi–Riemann Kernel, Smooth Jacobi–Sinh Shells, and Explicit Saddle-Point Remainder Bounds for Riemann's $\Xi$-Function
 
+**DOI (Zenodo / CERN):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23641708.svg)](https://doi.org/10.5281/zenodo.23641708) [`10.5281/zenodo.23641708`](https://doi.org/10.5281/zenodo.23641708)  
 **Author:** Thijs Missiaen (Independent Researcher, Belgium; ORCID: [0009-0007-3678-0810](https://orcid.org/0009-0007-3678-0810))  
 **Series:** Paper V of the Transverse Wronskian Series on Riemann's $\Xi$-Function  
 **Manuscript:** [paper/paper5_mother_wavelet_gabcke_bounds.pdf](paper/paper5_mother_wavelet_gabcke_bounds.pdf) (16 pages, AMS-LaTeX / pdfTeX) | [paper/paper5_mother_wavelet_gabcke_bounds.tex](paper/paper5_mother_wavelet_gabcke_bounds.tex)  
 **Verification Suite:** [scripts/verify_paper5_mother_wavelet_gabcke_bounds.py](scripts/verify_paper5_mother_wavelet_gabcke_bounds.py) (`mpmath.mp.dps = 50`, `mpmath.iv.dps = 35`, PyTorch GPU continuum scans)
+
+> [!IMPORTANT]
+> **Resolved Classical Bottleneck / Open Problem Context (2D Complex Riemann–Siegel Remainder Bounds & $u=0$ Half-Line Kink Artifacts):** Classic Gabcke (1979) remainder bounds apply only to the 1D critical line $d = 0$, while naive half-line shell truncations of $\Phi(u)$ introduce $\mathcal{O}(t^{-2})$ derivative kinks at $u = 0$ and appear threatened by the slowest cross-pair $(N-1,N)$ near the saddle horizon $N(t) = \lfloor\sqrt{t/2\pi}\rfloor$. This paper resolves all three problems via the Universal Mother-Wavelet dilation $\phi_m(u) = m^{-1/2}\varphi_1(u+\frac{1}{2}\ln m)$, kink-free self-mirrored Jacobi–Sinh shells, cubic $\mathcal{O}(t^{-3/2})$ self-damping of the $(N-1,N)$ boundary pair, and explicit 2D complex Gabcke–Olver remainder bounds across $d \in (0, 1/2]$.
 
 ## Abstract
 
