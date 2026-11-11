@@ -6,9 +6,9 @@ authors:
     affiliation: "Independent Researcher, Belgium"
     email: "thijs.missiaen@gmail.com"
     orcid: "https://orcid.org/0009-0007-3678-0810"
-title: "Universal Mother-Wavelet Decomposition of the Jacobi-Riemann Kernel, Smooth Jacobi-Sinh Shells, and Explicit Saddle-Point Remainder Bounds for Riemann's Xi-Function"
-version: 1.0.0
-date-released: 2026-04-20
+title: "Logarithmic Dilation of the Jacobi-Riemann Kernel, Strip-Holomorphic Shell Partitions, Stieltjes Diagonal Asymptotics, and Off-Diagonal Obstructions"
+version: 1.1.0
+date-released: 2026-11-11
 url: "https://github.com/thijsmissiaen/paper5-mother-wavelet-gabcke-bounds"
 repository-code: "https://github.com/thijsmissiaen/paper5-mother-wavelet-gabcke-bounds"
 license: "MIT"
@@ -16,9 +16,9 @@ keywords:
   - "Riemann Xi-function"
   - "Transverse Wronskian"
   - "Jacobi theta kernel"
-  - "Mother-wavelet dilation"
-  - "Riemann-Siegel formula"
-  - "Gabcke remainder bounds"
+  - "Logarithmic shell dilation"
+  - "Spira modulus inequality"
+  - "Riemann-Siegel remainder"
   - "Stieltjes constants"
   - "Wigner phase-space shift"
   - "MSC 11M06"
