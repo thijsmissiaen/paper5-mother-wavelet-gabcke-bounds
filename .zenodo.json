@@ -2,7 +2,7 @@
   "title": "Logarithmic Dilation of the Jacobi-Riemann Kernel, Strip-Holomorphic Shell Partitions, Stieltjes Diagonal Asymptotics, and Off-Diagonal Obstructions",
   "description": "Paper V of the series on the Transverse Wronskian of Riemann's Xi-Function. Analyzes the logarithmic shell dilation of Riemann's Jacobi theta kernel under canonical Wronskian normalization, connects individual shell damping to the Spira (1965) and Saidak-Zvengrowski (2003) functional-equation modulus inequality, resolves the Im(z) = pi/48 pole obstruction of sinh(8z) cutoffs via the weight-free remainder kernel R_N^{ker}(z) and strip-holomorphic logistic partition w_4(z), and proves a cubic-logarithmic Stieltjes diagonal expansion alongside sharp boundary-pair self-damping, O(t^{1/2}) off-diagonal cross-pair scaling, and t-uniform real-axis incomplete-Gamma tail bounds.",
   "upload_type": "publication",
-  "publication_type": "article",
+  "publication_type": "preprint",
   "creators": [
     {
       "name": "Missiaen, Thijs",
@@ -25,5 +25,5 @@
     "MSC 41A60",
     "MSC 30D15"
   ],
-  "version": "1.1.0"
+  "version": "5.1.0"
 }
